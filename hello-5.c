@@ -5,7 +5,7 @@
 #include <linux/stat.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("ARNA MAITY");
+MODULE_AUTHOR("PRIYANSHU YADAV");
 MODULE_DESCRIPTION("This module illustrates the use of module parameters.");
 
 // Function declarations...

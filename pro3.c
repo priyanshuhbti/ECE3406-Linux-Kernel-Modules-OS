@@ -5,7 +5,7 @@
 
 #define PROC_NAME "iter"
 
-MODULE_AUTHOR("Arna Maity <arnamaity6230@gmail.com>");
+MODULE_AUTHOR("Priyanshu Yadav  <priyanshs.ece@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Module illustrating the management of procfs using seq_file.");
 

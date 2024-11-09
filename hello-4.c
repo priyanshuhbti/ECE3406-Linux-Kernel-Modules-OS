@@ -2,7 +2,7 @@
 #include <linux/module.h>
 #include <linux/kernel.h>
 
-#define DRIVER_AUTHOR "Arna Maity <arnamaity6230@gmail.com>"
+#define DRIVER_AUTHOR "Priyanshu Yadav <priyanshs.ece@gmail.com>"
 #define MODULE_DESC "Hello World Module."
 
 static int __init hello_4_init(void);

@@ -8,7 +8,7 @@
 struct proc_dir_entry* Our_Proc_File;
 
 MODULE_DESCRIPTION("A Simple /proc FS Driver.");
-MODULE_AUTHOR("Arna Maity <arnamaity6230@gmail.com>");
+MODULE_AUTHOR("Priyanshu Yadav <priyanshs.ece@gmail.com>");
 MODULE_LICENSE("GPL");
 
 /* create_proc_entry() & remove_proc_entry() are deprecated */

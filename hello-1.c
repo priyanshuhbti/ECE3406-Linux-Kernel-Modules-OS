@@ -3,7 +3,7 @@
 
 int hello_init(void);
 void hello_exit(void);
-/*  Priyanshu Yadav */
+/*  ECE 1058 CourseWork */
 int hello_init(){
     printk(KERN_INFO"Hello From the Linux Kernel Module!!");
     return 0;

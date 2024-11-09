@@ -9,7 +9,7 @@
 #define PROC_ENTRY_FILENAME "buffer2k"
 #define PROCFS_MAX_SIZE 2048
 
-MODULE_AUTHOR("Arna Maity <arnamaity6230@gmail.com>");
+MODULE_AUTHOR("Priyanshu Yadav <priyanshs.ece@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("/proc FS using Standard File System");
 
